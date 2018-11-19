@@ -2,13 +2,6 @@
 
 
 
+ Now use the vim to edit this file not the vi.
 
-A
-A
-B
-B
-A
-B
-D
-C
-itesit
+vi is too bad to use.
