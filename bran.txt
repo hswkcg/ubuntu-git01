@@ -1,4 +1,5 @@
 
 This is the branch test 2.
 
-Two This is the conflicts test.
+Three Test the merge conflicts.
+
