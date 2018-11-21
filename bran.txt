@@ -1,2 +1,4 @@
 
 This is the branch test 2.
+
+First Test the merge conflicts.
